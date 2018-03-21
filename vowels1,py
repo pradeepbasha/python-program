@@ -1,0 +1,6 @@
+P=input("enter the char");
+g=('a','e','i','o','u','A','E','I','O','U')
+if P in g:
+   print("vowels")
+else:
+   print("cosanant")
